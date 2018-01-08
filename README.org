@@ -1,0 +1,2 @@
+Python ports of the labs from the book Introduction to Statistical Learning
+in R.
